@@ -6,6 +6,6 @@ I'm **JM233333** , a foolish newbie learning *Computer Science and Technologies*
 
 - Programming Languages : C/C++, Java, Ruby
 
-- Email : 26466398@163.com
+- Email : jm233333@outlook.com
 
 - Personal Blog (in Chinese) : https://blog.jm233333.com
