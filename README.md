@@ -1,4 +1,4 @@
-I'm **JM233333** , an immature computer system researcher.
+I'm **JM233333** , an unsophisticated computer system researcher.
 
 - Homepage (English / Chinese) : https://jm233333.github.io
 
