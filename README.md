@@ -1,11 +1,9 @@
-I'm **JM233333** , a foolish newbie learning *Computer Science and Technologies* .
+I'm **JM233333** , an immature computer system researcher.
 
-- CV (English / Chinese) : https://blog.jm233333.com/cv/
+- Homepage (English / Chinese) : https://jm233333.github.io
 
-- Research Interests : Complex Software System Testing, Operating Systems, Linux Kernel, and Software Engineering.
-
-- Programming Languages : C/C++, Java, Ruby
+- Research Interests : Understanding/Debugging and Testing/Verifying Operating System Kernels and Other Complex Software Systems.
 
 - Email : jm233333@outlook.com
 
-- Personal Blog (in Chinese) : https://blog.jm233333.com
+- Personal Blog : https://blog.jm233333.com (rebuilding; temporarily unavailable)
